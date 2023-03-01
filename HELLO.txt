@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from fearue text
+=======
+This is my first line from my github
+>>>>>>> 66ef824d22c4f7b878d24e56086ad2dd822f8a2e
