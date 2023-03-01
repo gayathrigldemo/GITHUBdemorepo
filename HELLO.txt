@@ -1,4 +1,6 @@
 
+this is from fearue text
+
 This is my first line from my github
 
-this is from fearue text
+>>>>>>> featurebranch
